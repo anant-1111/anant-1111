@@ -13,6 +13,7 @@ SQL Business Analytics
 Interactive Power BI Dashboards
 Python Data Automation
 Open Source Contributions
+
 🎯 My Goal
 
 Contributing to open-source data projects and building solutions that make data analysis easier.
